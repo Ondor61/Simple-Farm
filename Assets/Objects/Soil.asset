@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff6151e1279942e4b957b09f464b4525, type: 3}
+  m_Name: Soil
+  m_EditorClassIdentifier: 
+  type: 0
+  tile:
+  - {fileID: 11400000, guid: 88fb3b6938c951b4a9dfc5f9c6a9839a, type: 2}
+  - {fileID: 11400000, guid: bf2a2d1694a50f04a8f4bd089d22b934, type: 2}
+  - {fileID: 11400000, guid: dd8e9d5d7c40e9045b7a989e67db490d, type: 2}
